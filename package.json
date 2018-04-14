@@ -1,0 +1,23 @@
+{
+  "name": "yesno",
+  "version": "1.0.0",
+  "description": "A simple module to change \"true\" to \"Yes\" and \"false\" to \"No\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./tests/test.js"
+  },
+  "keywords": [],
+  "author": "The Doctor (Noah Calland)",
+  "license": "GPL-3.0",
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KidOfEpicness/yesno.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KidOfEpicness/yesno/issues"
+  },
+  "homepage": "https://github.com/KidOfEpicness/yesno#readme"
+}
