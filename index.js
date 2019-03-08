@@ -4,11 +4,11 @@ module.exports = function(TrueFalse) {
         return console.error("Value was not a Boolean.")
     };
 
-    if(TrueFalse === "false") {
+    if(TrueFalse === false) {
        "No";
     };
     
-    if(TrueFalse === "true") {
+    if(TrueFalse === true) {
        "Yes";
     };
 }
